@@ -1,4 +1,4 @@
-[![MasterHead](./CoverPic.gif)]
+![MasterHead](./CoverPic.gif)
 
 
 <h1 align="center">Hi 👋, I'm Echo Emissary</h1>
